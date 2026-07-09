@@ -28,10 +28,8 @@ Wrangling AI since early GPTs
 but try to keep training both my engineering brain through leetcode and architecture books,
 and my product brain through introducing organizational optimizations and shipping various pet projects.
 
-Stack
-
-Can get up to speed quickly with anything.
-But that's waht I worked with recently:
+**Stack.** Can get up to speed quickly with anything.
+But that's what I worked with recently:
 
 - Systems & Embedded — C/C++, Rust, Zephyr RTOS, STM32, nRF, SIL3 & Ex-safety, NB-IoT / LTE-M / Wi-Fi / BLE / Ethernet
 - Web — Lit, React, Vite, JS/TS, Node.js, REST/WS/HTTP, TCP/IP
