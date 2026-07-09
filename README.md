@@ -3,11 +3,11 @@
   <b>Low-level · Networks · Full-stack · Blockchain · Distributed Systems</b>
 </p>
 <p align="center">
-  Senior developer bending new tech for real projects for 14 years.<br>
+  Senior developer bending tech for real projects for 14 years.<br>
   Patented invention for transferring web traffic over arbitrary non-IP protocols.<br>
-  M.Sc. in Computer Science & Engineering.<br>
-  Bringing online devices with kilobytes of memory · optimizing network protocols.<br>
-  Polkadot Blockchain Academy Campus graduate — <i>cum laude</i>, Luzern cohort.
+  M.Sc. in Computer Science & Engineering cum laude<br>
+  Bringing online devices with kilobytes of memory.<br>
+  Polkadot Blockchain Academy Campus graduate — cum laude, Luzern cohort.
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/andrey-dodonov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -24,9 +24,13 @@ Deep on low-level protocols and efficient resource use.
 Patented serving browser-native UIs over non-IP links.
 Patenting approaches for AI usage with embedded devices.
 
-Wrangling AI since early GPTs 
-but try to keep training both my engineering brain through leetcode and architecture books,
-and my product brain through introducing organizational optimizations and shipping various pet projects.
+Wrangling AI to deliver since early GPTs till Fable.
+Despite that, trying to keep my engineering brain fit through leetcode, embedded no-AI development and books on software architecture.
+
+Most of my work is closed-sourced,  
+but recently I started to do pet projects for fun, such as
+[Graph Tab for GitHub](https://chromewebstore.google.com/detail/graph-tab-for-github/lailhjbpeagafdaegmhfolhehjgegead) and
+[Shaders for Windows Terminal](https://github.com/AndreyDodonov-EH/terminal_shaders).
 
 **Stack.** Can get up to speed quickly with anything.
 But that's what I worked with recently:
