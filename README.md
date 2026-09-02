@@ -3,7 +3,7 @@
   <b>Low-level · Networks · Full-stack · Blockchain · Distributed Systems</b>
 </p>
 <p align="center">
-  Senior developer bending tech for real projects for 14 years.<br>
+  Bending tech for real projects for 14 years.<br>
   Patented invention for transferring web traffic over arbitrary non-IP protocols.<br>
   M.Sc. in Computer Science & Engineering cum laude<br>
   Bringing online devices with kilobytes of memory.<br>
