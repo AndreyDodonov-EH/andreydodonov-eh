@@ -24,7 +24,7 @@ Deep on low-level protocols and efficient resource use.
 Patented serving browser-native UIs over non-IP links.
 Patenting approaches for AI usage with embedded devices.
 
-Wrangling AI to deliver since early GPTs till Fable.
+Wrangling AI to deliver since  GPT 2 till whatever is newest today :-D 
 Despite that, trying to keep my engineering brain fit through leetcode, embedded no-AI development and books on software architecture.
 
 Most of my work is closed-sourced,  
